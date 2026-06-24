@@ -17,6 +17,7 @@ I build retrieval and agent systems end-to-end: hybrid retrieval, eval-driven fi
 **LLM / Agentic AI**
 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C1C1C?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=for-the-badge)
 
