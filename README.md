@@ -52,4 +52,4 @@ I build retrieval and agent systems end-to-end: hybrid retrieval, eval-driven fi
 
 ---
 
-📫 Reach me: [[LinkedIn](https://www.linkedin.com/in/kowshik-sai14/)](#) · [[Email](kowshiksai14@gmail.com)](#)
+📫 Reach me: [[LinkedIn](https://www.linkedin.com/in/kowshik-sai14/)](#) · [kowshiksai14@gmail.com](#)
