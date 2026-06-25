@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer | Building production-grade RAG and agentic systems
 
-PGDM (Research & Business Analytics), Madras School of Economics — graduating 2026.
+PGDM (Research & Business Analytics), Madras School of Economics - graduating 2026.
 I build retrieval and agent systems end-to-end: hybrid retrieval, eval-driven fixes, MLOps tracking, and the failure modes nobody puts in tutorials.
 
 ---
