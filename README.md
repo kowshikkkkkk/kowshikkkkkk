@@ -239,18 +239,6 @@ Fine-tuned Qwen2.5-VL-3B using QLoRA for structured receipt parsing and key-valu
 - Collaborated with the Finance team on dashboard development and business reporting.
 - Worked with operational and sales datasets to support business analysis and decision-making.
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kowshikkkkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowshikkkkkk&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=kowshikkkkkk&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
