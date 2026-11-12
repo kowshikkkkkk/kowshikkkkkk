@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kowshik Sai
+ # Hello, I'm Kowshik ∴
 
 ### Analytics × Product Thinking × Applied AI
 
